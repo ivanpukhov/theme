@@ -1,0 +1,21 @@
+{
+  "name": "molocolor",
+  "displayName": "Molocolor",
+  "description": "\"Molocolor\" is a design theme created specifically for developers and programmers who strive for professionalism and productivity in their work. This theme combines a clean and minimalistic design with high readability, making it an ideal choice for long coding sessions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "alex herc",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alex herc-color-theme.json"
+      }
+    ]
+  }
+}
